@@ -1,2 +1,2 @@
 
-Live site: https://mahadi-devo.github.io/index.html
+Live site: https://mahadi-devo.github.io/mahadi-devo-smart-gurdien.github.io/
